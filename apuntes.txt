@@ -1,0 +1,3 @@
+Peticiones HTTP a google mediante axios y request
+axios trabaja con promesas
+$npm install axios --save
